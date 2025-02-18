@@ -44,6 +44,6 @@
  
 4) Task 4: E-commerce Website page
 
-![Image](https://github.com/user-attachments/assets/991e6db1-1eca-40ea-a890-4e13dede5bf4)
+https://github.com/user-attachments/assets/a0e14a29-fb87-4919-91d1-c0469850b8ec
 
 
