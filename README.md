@@ -23,8 +23,19 @@
 
 1) Task 1: Mockup Logo design page
 
+![Image](https://github.com/user-attachments/assets/c2f60efb-f8ab-4d29-a739-486b63b48a1b)
+
+
 2) Task 2:Voice Controller application page
+
+![Image](https://github.com/user-attachments/assets/991e6db1-1eca-40ea-a890-4e13dede5bf4)
+
   
-3) Task 3:collaborative Workflow page 
+3) Task 3:collaborative Workflow page
+
+https://github.com/user-attachments/assets/2bf859af-36a5-4ca8-861b-5de8f61222bb
+
  
 4) Task 4: E-commerce Website page
+
+![Image](https://github.com/user-attachments/assets/9c8ae7c4-37a1-4b3e-b88d-04c8da54c340)
